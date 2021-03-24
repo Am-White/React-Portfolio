@@ -1,23 +1,23 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Amethyst White",
-    "role": "Software Developer",
+    "role": "",
     "linkedinId":"Your LinkedIn Id",
-    "roleDescription": "I like...",
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/amethyst-white-1942761b7/",
+          "url":"",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/Am-White",
+          "url":"",
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am...",
-    "address":"United States",
+    "aboutme":"",
+    "address":"",
     "website":"",
     "education":[
       {
@@ -76,23 +76,24 @@ let resumeData = {
       },
       {
         "name":"",
-        "description":"",  
+        "description":"",
         "imgurl":""
       },
       {
         "name":"",
         "description":"",
         "imgurl":""
-      }
+      },
+      
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"",
+        "name":""
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"",
+        "name":""
       }
     ]
   }
