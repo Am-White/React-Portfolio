@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Am-White/static/css/main.f7ea3d38.chunk.css",
-    "main.js": "/Am-White/static/js/main.662d8820.chunk.js",
-    "main.js.map": "/Am-White/static/js/main.662d8820.chunk.js.map",
-    "runtime-main.js": "/Am-White/static/js/runtime-main.6acd96a2.js",
-    "runtime-main.js.map": "/Am-White/static/js/runtime-main.6acd96a2.js.map",
-    "static/js/2.f82c334d.chunk.js": "/Am-White/static/js/2.f82c334d.chunk.js",
-    "static/js/2.f82c334d.chunk.js.map": "/Am-White/static/js/2.f82c334d.chunk.js.map",
-    "index.html": "/Am-White/index.html",
-    "static/css/main.f7ea3d38.chunk.css.map": "/Am-White/static/css/main.f7ea3d38.chunk.css.map",
-    "static/js/2.f82c334d.chunk.js.LICENSE.txt": "/Am-White/static/js/2.f82c334d.chunk.js.LICENSE.txt"
+    "main.css": "/Am-White/React-Portfolio/static/css/main.f7ea3d38.chunk.css",
+    "main.js": "/Am-White/React-Portfolio/static/js/main.2368993d.chunk.js",
+    "main.js.map": "/Am-White/React-Portfolio/static/js/main.2368993d.chunk.js.map",
+    "runtime-main.js": "/Am-White/React-Portfolio/static/js/runtime-main.788d7cb3.js",
+    "runtime-main.js.map": "/Am-White/React-Portfolio/static/js/runtime-main.788d7cb3.js.map",
+    "static/js/2.f82c334d.chunk.js": "/Am-White/React-Portfolio/static/js/2.f82c334d.chunk.js",
+    "static/js/2.f82c334d.chunk.js.map": "/Am-White/React-Portfolio/static/js/2.f82c334d.chunk.js.map",
+    "index.html": "/Am-White/React-Portfolio/index.html",
+    "static/css/main.f7ea3d38.chunk.css.map": "/Am-White/React-Portfolio/static/css/main.f7ea3d38.chunk.css.map",
+    "static/js/2.f82c334d.chunk.js.LICENSE.txt": "/Am-White/React-Portfolio/static/js/2.f82c334d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6acd96a2.js",
+    "static/js/runtime-main.788d7cb3.js",
     "static/js/2.f82c334d.chunk.js",
     "static/css/main.f7ea3d38.chunk.css",
-    "static/js/main.662d8820.chunk.js"
+    "static/js/main.2368993d.chunk.js"
   ]
 }
