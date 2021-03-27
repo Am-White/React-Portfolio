@@ -1,24 +1,29 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Amethyst White",
-    "role": "",
+    "role": "aspiring software engineer, who has an obsession with the design aspect of coding.",
     "linkedinId":"Your LinkedIn Id",
     "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"",
+          "url":"https://www.linkedin.com/in/amethyst-white-1942761b7/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"",
+          "url":"https://github.com/Am-White",
           "className":"fa fa-github"
         },
+        {
+          "name":"resume",
+          "url": "https://docs.google.com/document/d/1J-LOh9q5XAGzgZ1k3Hfm5t6ErdX8kEJtO5_YbTmWIpU/edit",
+          "className": "fa fa-user"
+        }
       ],
-    "aboutme":"",
-    "address":"",
-    "website":"",
+    "aboutme":"Please feel free to email me with any questions or suggestions:",
+    "address":"Seattle, WA",
+    "website":"aybwhite@gmail.com",
     "education":[
       {
         "UniversityName":"",
