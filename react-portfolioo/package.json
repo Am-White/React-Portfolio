@@ -1,7 +1,7 @@
 {
   "name": "react-portfolioo",
   "version": "0.1.0",
-  "homepage": "https://github.com/Am-White",
+  "homepage": "https://github.com/Am-White/React-Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
