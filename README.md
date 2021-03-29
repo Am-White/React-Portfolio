@@ -7,6 +7,8 @@ My name is Amethyst White, I am a young woman from Seattle, WA. I am new to comp
   
 ## Link to Deployed Page ##
 
+Current Deployment is not working at the moment:
+
 In the project directory, you can run:
 
 ### npm start ###
